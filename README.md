@@ -13,6 +13,8 @@ pkg install python2
 
 pkg install figlet
 
+pip2 install --upgrade pip
+
 gem install lolcat
 
 git clone https://github.com/AlatToll/cracker.git
