@@ -23,6 +23,7 @@ pip2 -r requirements.txt
 
 bash crack.sh
 
-<img arc="Crack.png">
 
-<img arc="Cracker.png">
+<img src="Crack.png">
+
+<img src="Cracker.png">
