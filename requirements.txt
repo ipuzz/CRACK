@@ -1,4 +1,3 @@
---upgrade pip
 requests
 fake-useragent
 mechanize
