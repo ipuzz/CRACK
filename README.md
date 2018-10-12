@@ -19,7 +19,7 @@ git clone https://github.com/AlatToll/cracker.git
 
 cd cracker
 
-pip2 -r requirements.txt
+pip2 install -r requirements.txt
 
 bash cracker.sh
 
