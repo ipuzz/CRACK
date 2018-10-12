@@ -21,7 +21,7 @@ cd cracker
 
 pip2 -r requirements.txt
 
-bash crack.sh
+bash cracker.sh
 
 
 <img src="Cracker.png">
